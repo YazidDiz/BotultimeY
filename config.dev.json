@@ -1,8 +1,8 @@
 {
   "facebookAccount": {
-    "email": "boyzetsy@gmail.com",
-    "password": "FORLIFE56",
-    "2FASecret": "740572",
+    "email": "tomudenzetu@gmail.com",
+    "password": "Yasti56&",
+    "2FASecret": "",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -25,7 +25,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Zetsu Bot",
+  "nickNameBot": "KAMI",
   "prefix": ".",
   "database": {
     "type": "sqlite",
